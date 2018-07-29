@@ -1,0 +1,1 @@
+I no longer actively seek to acquire new SpaceX patches. The (genuine!) patches I am lucky to own are listed below:

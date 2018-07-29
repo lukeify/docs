@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link href="styles.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Fira+Mono" rel="stylesheet">
+        <title>docs.lukeify.com</title>
+        <style>
+            #title {
+                background-image:linear-gradient(#00aaff, #007aff);
+            }
+
+            aside {
+                border-image:linear-gradient(to bottom, #00aaff, #007aff) 1 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <aside>
+            <ul>
+            <%_ for (var i = 0; i < pages.length; i++) { _%>
+                <li><a href="<%= pages[i].pageName %>.html"><%= pages[i].pageLabel %></a></li>
+            <%_ } _%>
+            </ul>
+        </aside>
+
+        <div id="content">
+            <header>
+                <h1 id="title">
+                    docs.lukeify.com
+                </h1>
+            </header>
+
+            <main>
+                <p>A repository containing centralized information surrounding aspects of my development and personal life that I felt needed organizing; as well as personal best practices and standards that I can refer to for future reference. Anything that can be organized should be organized.</p>
+
+                <p>This repository will never be complete, it is merely an always-ongoing collection of summarized thoughts and notes.</p>
+
+                <p>It can be read online at docs.lukeify.com (in this case, you are already here).</p>
+
+                <h2>Built With</h2>
+
+                <ul>
+                    <li>A text editor of your choice.</li>
+                    <li>Yarn Package Manager.</li>
+                    <li>Adobe Illustrator & Photoshop.</li>
+                    <li>A tiny bit of JS to build everything.</li>
+                    <li>My need for organized chaos.</li>
+                </ul>
+
+                <h2>License</h2>
+
+                <p>The content of this repository is licensed under <a href="http://unlicense.org">The Unlicense</a>. For a short summary on this license, read
+                    <a href="https://choosealicense.com/licenses/unlicense/">its entry</a> at choosealicense.</p>
+            </main>
+        </div>
+    </body>
+</html>

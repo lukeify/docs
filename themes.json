@@ -1,0 +1,150 @@
+{
+  "acronyms.md": {
+    "label": "Acronyms",
+    "colors": ["#c7d0dd", "#8cabce"]
+  },
+  "applications.md": {
+    "label": "Applications",
+    "colors": ["#00aaff", "#007aff"]
+  },
+  "bash.md": {
+    "label": "Bash",
+    "colors": ["#5aedfa", "#5ac8fa"]
+  },
+  "books.md": {
+    "label": "Books",
+    "colors": ["#f86900", "#f83600"]
+  },
+  "bugs.md": {
+    "label": "Bugs",
+    "colors": ["#cbbacc", "#b58cc6"]
+  },
+  "development.md": {
+    "label": "Development",
+    "colors": ["#ffbf00", "#ff9500"]
+  },
+  "devices.md": {
+    "label": "Devices",
+    "colors": ["#48d98b", "#48d964"]
+  },
+  "dock.md": {
+    "label": "Dock",
+    "colors": ["#7a56d6", "#5856d6"]
+  },
+  "domains.md": {
+    "label": "Domains",
+    "colors": ["#2cb2a4", "#125381"]
+  },
+  "fashion.md": {
+    "label": "Fashion",
+    "colors": ["#c62eff", "#ffa92d"]
+  },
+  "fitness.md": {
+    "label": "Fitness",
+    "colors": ["#f093fb", "#f5576c"]
+  },
+  "ios-settings.md": {
+    "label": "iOS Settings",
+    "colors": ["#eceae7", "#c0bcb6"]
+  },
+  "login-items.md": {
+    "label": "Login Items",
+    "colors": ["#cfdcee", "#93a5cf"]
+  },
+  "mac-setup.md": {
+    "label": "Mac Setups",
+    "colors": ["#868f96", "#596164"]
+  },
+  "passwords.md": {
+    "label": "Passwords",
+    "colors": ["#eacda3", "#e6b980"]
+  },
+  "path.md": {
+    "label": "Path",
+    "colors": ["#2a5298", "#1e3c72"]
+  },
+  "personal-fx.md": {
+    "label": "Personal Fx",
+    "colors": ["#ff2e8c", "#ff2d55"]
+  },
+  "photography.md": {
+    "label": "Photography",
+    "colors": ["#05ecec", "#007adf"]
+  },
+  "readme-template.md": {
+    "label": "README Template",
+    "colors": ["#6dd5ed", "#2193b0"]
+  },
+  "security-checklist.md": {
+    "label": "Security Checklist",
+    "colors": ["#f5beaa", "#cf5768"]
+  },
+  "server-setup.md": {
+    "label": "Server Setup",
+    "colors": ["#b1f4ed", "#2aaac1"]
+  },
+  "services.md": {
+    "label": "Services",
+    "colors": ["#dfa579", "#c79081"]
+  },
+  "shortcuts.md": {
+    "label": "Shortcuts",
+    "colors": ["#bbecb6", "#89ae5a"]
+  },
+  "social-media.md": {
+    "label": "Social Media",
+    "colors": ["#c6ccb2", "#cb9d52"]
+  },
+  "spacex-patches.md": {
+    "label": "SpaceX Patches",
+    "colors": ["#2276ab", "#7904cc"]
+  },
+  "spices.md": {
+    "label": "Spices",
+    "colors": ["#ffdde1", "#ee9ca7"]
+  },
+  "storage-manifest-digital.md": {
+    "label": "Storage Manifest (Digital)",
+    "colors": ["#84fab0", "#8fd3f4"]
+  },
+  "storage-manifest-physical.md": {
+    "label": "Storage Manifest (Physical)",
+    "colors": ["#38f9d7", "#43e97b"]
+  },
+  "terminal.md": {
+    "label": "Terminal",
+    "colors": ["#30cfd0", "#330867"]
+  },
+  "terminal-design.md": {
+    "label": "Terminal Design",
+    "colors": ["#30cfd0", "#330867"]
+  },
+  "text-replacements.md": {
+    "label": "Text Replacements",
+    "colors": ["#6f86d6", "#48c6ef"]
+  },
+  "travel.md": {
+    "label": "Travel",
+    "colors": ["#3494E6", "#EC6EAD"]
+  },
+  "typefaces.md": {
+    "label": "Typefaces",
+    "colors": ["#8baaaa", "#ae8b9c"]
+  },
+  "vim.md": {
+    "label": "Vim",
+    "colors": ["#15b53e", "#019833"]
+  },
+  "vsco.md": {
+    "label": "VSCO",
+    "colors": ["#ae995a", "#bd7e04"]
+  },
+  "watch.md": {
+    "label": "Watch",
+    "colors": ["#fdfbfb", "#ebedee"]
+  },
+  "wishlist.md": {
+    "label": "Wishlist",
+    "colors": ["#34e89e", "#1dae99"]
+  }
+}

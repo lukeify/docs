@@ -1,0 +1,9 @@
+* `/Users/luke/.cargo/bin`
+* `/Library/Frameworks/Python.framework/Versions/3.5/bin`
+* `/opt/local/bin`
+* `/opt/local/sbin`
+* `/usr/local/bin`
+* `/user/bin`
+* `/bin`
+* `/user/sbin`
+* `/Users/luke/bin`

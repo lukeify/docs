@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link href="styles.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Fira+Mono" rel="stylesheet">
+        <title><%= label %> | docs.lukeify.com</title>
+
+        <%_ if (colors.length > 0) { _%>
+        <style>
+            /* Luma value: <%= colorFns.luma(colorFns.hexToRgbComponents(colors[0])) %> */
+
+            aside {
+                border-image:linear-gradient(to bottom, <%= colors[0] %>, <%= colors[1] %>) 1 100%;
+            }
+
+            #title {
+                background-image:linear-gradient(<%= colors[0] %>, <%= colors[1] %>);
+            }
+
+            table tr:nth-child(2n + 1) {
+                background-color:<%= colorFns.transparentize(colorFns.hexToRgbComponents(colors[1]), 0.05) %>;
+            }
+
+            table tr:nth-child(2n) {
+                background-color:<%= colorFns.transparentize(colorFns.hexToRgbComponents(colors[1]), 0.2) %>;
+            }
+
+            thead {
+                color:<%= colorFns.luma(colorFns.hexToRgbComponents(colors[1])) < 200 ? 'white' : 'black' %>;
+            }
+
+            thead tr {
+                background-color:<%= colors[1] %> !important;
+            }
+
+            a:link, a:visited {
+                color:<%= colors[1] %>;
+            }
+
+            pre {
+                border-left:1em solid <%= colors[1] %>;
+                background-image:linear-gradient(135deg, <%= colorFns.transparentize(colorFns.hexToRgbComponents(colors[0]), 0.4) %>, <%= colorFns.transparentize(colorFns.hexToRgbComponents(colors[1]), 0.2) %>);
+            }
+
+            code {
+                color:<%= colors[1] %>;
+                background-color:<%= colorFns.transparentize(colorFns.hexToRgbComponents(colors[0]), 0.1) %>;
+            }
+        </style>
+        <%_ } _%>
+    </head>
+    <body>
+        <aside>
+            <ul>
+            <%_ for (var i = 0; i < otherPageNames.length; i++) { _%>
+                <li><a href="<%= otherPageNames[i].pageName %>.html"><%= otherPageNames[i].pageLabel %></a></li>
+            <%_ } _%>
+            </ul>
+        </aside>
+
+        <div id="content">
+            <header>
+                <h1 id="title">
+                    <%- logoAsSvg %>&nbsp;<%= label %>
+                </h1>
+            </header>
+
+            <main>
+                <%- renderedContents %>
+            </main>
+        </div>
+    </body>
+</html>
