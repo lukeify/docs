@@ -11,5 +11,5 @@
 
 | Alias | For |
 | ----- | --- |
-| myrepos | `cd /Volumes/PATRIOT32/repos` |
+| repos | `cd /Volumes/PATRIOT64` |
 

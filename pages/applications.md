@@ -78,62 +78,80 @@ Aspects applied to the following entries:
 
 General goal is to have no more than approximately a single page of third party apps. A web browser suffices most of the time. The third page is relegated to infrequently used apps.
 
-| App               | Location          | Notes                     |
-| ----------------- | ----------------- | ------------------------- |
-| Apple Music       | Home Row          | Music. Replaced Spotify.  |
-| IRCCloud          | Home Row          | IRC.                      |
-| Safari            | Home Row          | Web browser.              |  
-| Apollo            | Home Row > News   | Reddit.                   |
-| Hacker News       | Home Row > News   | Hacker News.              |
-| Twitter           | Home Row > News   | Twitter.                  |
-| Messages          | Home Page         | Default.                  |
-| Phone             | Home Page         | Default.                  |
-| Camera            | Home Page         | Default.                  |
-| Mail              | Home Page         | Default.                  |
-| Weather           | Home Page         | Default.                  |
-| Clock             | Home Page         | Default.                  |
-| Calculator        | Home Page         | Default.                  |
-| Notes             | Home Page         | Default.                  |
-| Reminders         | Home Page         | Default.                  |
-| Maps              | Home Page         | Default.                  |
-| App Store         | Home Page         | Default.                  |
-| Activity          | Home Page         | Default.                  |
-| Home              | Home Page         | Default.                  |
-| Apple TV Remote   | Home Page         | Default.                  |
-| Daylio            | Page 2            | Mood tracking.            |
-| EnPass            | Page 2            | Key & password storage.   |
-| goMoney NZ        | Page 2            | For Google WiFi router we have at home.   |
-| Google Maps       | Page 2            | Alternative to Apple Maps when needed. |
-| Google WiFi       | Page 2            | Home WiFi monitoring.     |
-| HealthMate        | Page 2            | Connects to Nokia Body+ Scale, and sends weight information into Apple Health. |
-| HQ                | Page 2            | Fun game.                 |
-| LIFX              | Page 2            | Smart lightbulb management. |
-| Paprika 3         | Page 2            | Recipe manager.           |
-| Plex              | Page 2            | Household media streaming for Apple TV.   |
-| RunGap            | Page 2            | Exporting of workout data through GPX files. |
-| Snapchat          | Page 2            | Ugh.                      |
-| Speedtest         | Page 2            | Useful when travelling.   |
-| Strava            | Page 2            | Health & fitness.         |
-| T-Zero            | Page 2            | Countdown app. Investigate replacing with custom domain and site. |
-| Uber              | Page 2            | Always force close this where possible. |
-| VSCO              | Page 2            | Image editing & presets before export to Instagram. |
-| Waterminder       | Page 2            | Water consumption tracking. |
-| YouTube           | Page 2            | Videos.                   |
-| Compass           | Page 3            |                           |
-| Contacts          | Page 3            |                           |
-| Files             | Page 3            |                           |
-| Find iPhone       | Page 3            |                           |
-| Health            | Page 3            |                           |
-| iBooks            | Page 3            |                           |
-| iTunes Store      | Page 3            |                           |
-| Measure           | Page 3            |                           |
-| Numbers           | Page 3            |                           |
-| Pages             | Page 3            |                           |
-} Podcasts          | Page 3            |                           |
-| Remote            | Page 3            |                           |
-| Settings          | Page 3            |                           |
-| Voice Memos       | Page 3            |                           |
-| Wallet            | Page 3            |                           |
-| Watch             | Page 3            |                           |
-| Workflow          | Page 3            |                           |
-| Feedback          | Page 3            |                           |
+## Home Row
+
+| App               | Notes                     |
+| ----------------- | ------------------------- |
+| Apple Music       | Music. Replaced Spotify.  |
+| IRCCloud          | IRC.                      |
+| Safari            | Web browser.              |  
+| Apollo            | Reddit.                   |
+
+## First Page
+
+| App               | Notes                     |
+| ----------------- | ------------------------- |
+| Messages          | Default.                  |
+| Phone             | Default.                  |
+| Camera            | Default.                  |
+| Mail              | Default.                  |
+| Weather           | Default.                  |
+| Clock             | Default.                  |
+| Calculator        | Default.                  |
+| Notes             | Default.                  |
+| Reminders         | Default.                  |
+| Maps              | Default.                  |
+| App Store         | Default.                  |
+| Activity          | Default.                  |
+| Home              | Default.                  |
+| Apple TV Remote   | Default.                  |
+
+## Second Page
+
+| App               | Notes                     |
+| ----------------- | ------------------------- |
+| Days              | Event coutndowns.         |
+| Deliveries        | Package management.       |
+| EnPass            | Key & password storage.   |
+| goMoney NZ        | For Google WiFi router we have at home.   |
+| Google Maps       | Alternative to Apple Maps when needed. |
+| Google WiFi       | Home WiFi monitoring.     |
+| GoPro             | GoPro app.                |
+| HealthMate        | Connects to Nokia Body+ Scale, and sends weight information into Apple Health. |
+| LIFX              | Smart lightbulb management. |
+| Paprika 3         | Recipe manager.           |
+| Plex              | Household media streaming for Apple TV.   |
+| RunGap            | Exporting of workout data through GPX files. |
+| Snapchat          | Ugh.                      |
+| Speedtest         | Useful when travelling.   |
+| Strava            | Health & fitness.         |
+| T-Zero            | Countdown app. Investigate replacing with custom domain and site. |
+| Uber              | Always force close this where possible. |
+| VSCO              | Image editing & presets before export to Instagram. |
+| Waterminder       | Water consumption tracking. |
+| WhatsApp          | Paragliding group chat.   |
+| YouTube           | Videos.                   |
+
+## Third Page
+
+| App               | Notes                     |
+| ----------------- | ------------------------- |
+| Apple TV Remote   |                           |
+| Compass           |                           |
+| Contacts          |                           |
+| FaceTime          |                           |
+| Files             |                           |
+| Find iPhone       |                           |
+| Health            |                           |
+| iBooks            |                           |
+| iTunes Store      |                           |
+| Measure           |                           |
+| Numbers           |                           |
+| Pages             |                           |
+} Podcasts          |                           |
+| Remote            |                           |
+| Settings          |                           |
+| Shortcuts         |                           |
+| Voice Memos       |                           |
+| Wallet            |                           |
+| Watch             |                           |

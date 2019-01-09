@@ -55,6 +55,10 @@
     "label": "Mac Setups",
     "colors": ["#868f96", "#596164"]
   },
+  "packing.md": {
+    "label": "Packing",
+    "colors": ["#DA4453", "#89216B"]
+  },
   "passwords.md": {
     "label": "Passwords",
     "colors": ["#eacda3", "#e6b980"]
