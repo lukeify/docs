@@ -16,7 +16,7 @@ Spices I like cooking with. All candidates to be included in bespoke-designed sp
 | Five Spice | |
 | Garam Masala | |
 | Garlic Powder | |
-| Ginger Poweder | |
+| Ginger Powder | |
 | Lemongrass | |
 | Marjoram | |
 | Mint | |
