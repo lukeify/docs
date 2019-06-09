@@ -18,5 +18,3 @@ A list of text replacements I use on my devices. Also includes handy shortcuts t
 | lenny;            | ( ͡° ͜ʖ ͡°)                                   |
 | lod;              | ಠ_ಠ                                           |
 | shrug;            | ¯\_(ツ)_/¯                                     |
-| sealofapproval;   | http://i.imgur.com/zbWKGKD.png                |
-| dropit;           | https://www.youtube.com/watch?v=WG9EgxGsJuQ   |

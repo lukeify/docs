@@ -3,7 +3,7 @@ My preferred across-device terminal design. See `~assets/lukeify.terminal` for t
 ## lukeify.terminal
 
 * Background
-    * Background Color: rgba(0,0,0, 0.7)
+    * Background Color: rgba(0,0,0, 0.9)
     * Blur: 20%
 
 * Text

@@ -59,7 +59,6 @@ Records most/all high points above 1000m that I have visited. This excludes plai
 * [Peggys Peak](), Tararua Forest Park, New Zealand (April 2017) - 1545m / 5069ft
 * [Field Peaks](), Tararua Forest Park, New Zealand (Unknown) - 1483m / 4865ft
 
-
 ## Todos
 
 Seeing the world, one git commit at a time.
